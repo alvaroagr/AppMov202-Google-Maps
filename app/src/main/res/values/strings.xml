@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hole Tracking Tool</string>
+    <string name="title_activity_maps">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirm_btn_text">Confirmar</string>
+    <string name="login_btn_text">Iniciar Sesión</string>
+    <string name="credit">Alvaro A. Gómez Rey. 2020.</string>
+</resources>
